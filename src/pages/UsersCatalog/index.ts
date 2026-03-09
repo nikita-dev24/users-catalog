@@ -1,0 +1,1 @@
+export { UsersCatalog } from './UsersCatalog';
